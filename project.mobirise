@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Futuro Engenheiro",
+        "meta_descr": "Projeto de extensão - Gercom - UFPA",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -44,16 +44,17 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -65,16 +66,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -93,10 +94,10 @@
           "_name": "menu",
           "_anchor": "menu-o",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -108,11 +109,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosemtitulo-213x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Futuro Engenheiro",
               "link": "index.html",
-              "title": "",
+              "title": "Futuro engenheiro",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -121,8 +122,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Projeto de Extensão</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro <br>Engenheiro</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [
@@ -135,7 +136,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p>Quero dar aulas:</p><p>Se você quer ajudar a comunidade e está precisando de horas de extensão o projeto tem por objetivo instigar o aluno a ajudar a comunidade por meio de aulas nos laboratórios de ensino que ficam no prédio laboratório de engenharia elétrica e computação ao lado do auditório do Instituto de ciências jurídicas - ICJ. As vagas são limitadas de acordo com a disponibilidade de horários dos laborátorios <a href=\"https://calendar.google.com/calendar/embed?src=b8usin3acg6i2q0ugt3sq91nbo%40group.calendar.google.com&amp;ctz=America/Belem&amp;mode=WEEK&amp;amp&amp;bgcolor=%23ccccff&amp;amp\">labcom1</a> e <a href=\"https://calendar.google.com/calendar/embed?src=dk28ahhn8n3ds95i2kqspndcvk%40group.calendar.google.com&amp;ctz=America/Belem&amp;mode=WEEK&amp;amp&amp;bgcolor=%23ccccff&amp;amp\">labcom2</a>.&nbsp;Você que é aluno de Engenharia da computação e de Engenharia de Telecomunicações mande sua sugestão de aulas para o e-mail abaixo:</p><p>pexgercom.ufpa@gmail.com</p><p><br></p>"
+          "text": "<p>Quero dar aulas:</p><p>Se você quer ajudar a comunidade e está precisando de horas de extensão o projeto tem por objetivo instigar o aluno a ajudar a comunidade por meio de aulas nos laboratórios de ensino que ficam no prédio laboratório de engenharia elétrica e computação ao lado do auditório setorial profissional. As vagas são limitadas de acordo com a disponibilidade de horários dos laborátorios <a href=\"https://calendar.google.com/calendar/embed?src=b8usin3acg6i2q0ugt3sq91nbo%40group.calendar.google.com&amp;ctz=America/Belem&amp;mode=WEEK&amp;amp&amp;bgcolor=%23ccccff&amp;amp\">labcom1</a> e <a href=\"https://calendar.google.com/calendar/embed?src=dk28ahhn8n3ds95i2kqspndcvk%40group.calendar.google.com&amp;ctz=America/Belem&amp;mode=WEEK&amp;amp&amp;bgcolor=%23ccccff&amp;amp\">labcom2</a>.&nbsp;Você que é aluno de Engenharia da computação e de Engenharia de Telecomunicações mande sua sugestão de aulas para o e-mail abaixo:</p><p>pexgercom.ufpa@gmail.com</p><p><br></p>"
         },
         {
           "_tags": [
@@ -168,10 +169,9 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Rua Augusto Corrêa, 1 - Guamá, Belém - PA, 66075-110",
-              "placeId": "ChIJ_2MSzJSNpJIRnqtBO7w1bh8",
-              "state": "ok",
-              "stateDetails": ""
+              "address": "R. Augusto Corrêa, 01 - Guamá, Belém - PA, 66075-110, Brasil",
+              "placeId": "",
+              "state": "loading"
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Endereço</b></span></font><br>Rua Augusto Corrêa, 1 - Guamá, Belém - PA, 66075-110<br>\n<strong>Contatos</strong><br>E-mail: pexgercom.ufpa@gmail.com<br>Duvidas:&nbsp;",
@@ -201,8 +201,8 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
+        "title": "Futuro Engenheiro",
+        "meta_descr": "Projeto de extensão - Gercom - UFPA"
       },
       "components": [
         {
@@ -227,13 +227,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -245,16 +245,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -273,10 +273,10 @@
           "_name": "menu",
           "_anchor": "menu-x",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -288,7 +288,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosemtitulo-213x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -301,8 +301,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Projeto de Extensão</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro <br>Engenheiro</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [
@@ -355,8 +355,8 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "Futuro Engenheiro",
+        "meta_descr": "Projeto de extensão - Gercom - UFPA"
       },
       "components": [
         {
@@ -386,13 +386,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -404,16 +404,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -432,10 +432,10 @@
           "_name": "menu",
           "_anchor": "menu-11",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -447,7 +447,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosemtitulo-213x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -460,8 +460,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Projeto de Extensão</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro <br>Engenheiro</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [
@@ -514,8 +514,8 @@
     },
     "page3.html": {
       "settings": {
-        "title": "Web Site Builder Title",
-        "meta_descr": "Web Site Builder Description"
+        "title": "Futuro Engenheiro",
+        "meta_descr": "Projeto de extensão - Gercom - UFPA"
       },
       "components": [
         {
@@ -567,13 +567,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -585,16 +585,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -613,10 +613,10 @@
           "_name": "menu",
           "_anchor": "menu-16",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -628,7 +628,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosemtitulo-213x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -641,8 +641,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Projeto de Extensão</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro <br>Engenheiro</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [
@@ -695,8 +695,8 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Web Page Maker Title",
-        "meta_descr": "Web Page Maker Description"
+        "title": "Futuro Engenheiro",
+        "meta_descr": "Projeto de extensão - Gercom - UFPA"
       },
       "components": [
         {
@@ -746,13 +746,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -764,16 +764,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -792,10 +792,10 @@
           "_name": "menu",
           "_anchor": "menu-1b",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -807,7 +807,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosemtitulo-213x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -820,8 +820,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Projeto de Extensão</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro <br>Engenheiro</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [
