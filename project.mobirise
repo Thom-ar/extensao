@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -45,22 +45,22 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
-              "font-size": "2.15rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.328rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -75,7 +75,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -95,9 +95,9 @@
           "_anchor": "menu-o",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "2.15",
+            "fontSize": "0.85",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro<br> Engenheiro</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [
@@ -705,6 +705,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1g",
           "_params": {
             "labelsColor": "#232323",
@@ -750,12 +755,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
         },
         {
           "_styles": {
@@ -763,37 +763,38 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "15px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -813,9 +814,9 @@
           "_anchor": "menu-1b",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.75",
+            "fontSize": "0.85",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -841,7 +842,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Futuro<br> Engenheiro</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMO PARTICIPAR ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Quero ser aluno</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-t\">Quero dar aulas</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AJUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fct.ufpa.br/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=15\" target=\"_blank\">O que é extensão ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exemplos de Aulas que posso ministar ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Mais duvidas&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">OBJETIVO</a></li>"
         },
         {
           "_tags": [

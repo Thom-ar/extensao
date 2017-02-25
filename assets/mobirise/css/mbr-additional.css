@@ -413,25 +413,25 @@ h6,
 }
 #menu-o .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 15px;
 }
 #menu-o .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-o .close-icon::before,
 #menu-o .close-icon::after {
-  background-color: #ffffff;
+  background-color: #41a85f;
 }
 #menu-o .link,
 #menu-o .dropdown-item {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-o .link {
-  font-size: 2.15rem;
+  font-size: 0.85rem;
 }
 #menu-o .dropdown-item,
 #menu-o .nav-dropdown-sm .link {
-  font-size: 2.328rem;
+  font-size: 0.921rem;
 }
 #menu-o .link:hover,
 #menu-o .dropdown-item:hover,
@@ -456,7 +456,7 @@ h6,
   background: #000000;
 }
 #menu-o .bg-color.transparent .link {
-  color: #ffffff;
+  color: #41a85f;
   transition: none;
 }
 #menu-o .bg-color.transparent.opened .link {
@@ -674,24 +674,25 @@ h6,
 }
 #menu-1b .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
 }
 #menu-1b .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-1b .close-icon::before,
 #menu-1b .close-icon::after {
-  background-color: #ffffff;
+  background-color: #41a85f;
 }
 #menu-1b .link,
 #menu-1b .dropdown-item {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-1b .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #menu-1b .dropdown-item,
 #menu-1b .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #menu-1b .link:hover,
 #menu-1b .dropdown-item:hover,
@@ -701,22 +702,22 @@ h6,
 }
 #menu-1b .link[aria-expanded="true"],
 #menu-1b .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #menu-1b .nav-dropdown-sm .link:focus,
 #menu-1b .nav-dropdown-sm .link:hover,
 #menu-1b .nav-dropdown-sm .dropdown-item:focus,
 #menu-1b .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #menu-1b .navbar,
 #menu-1b .nav-dropdown-sm,
 #menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1b .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #menu-1b .bg-color.transparent .link {
-  color: #ffffff;
+  color: #41a85f;
   transition: none;
 }
 #menu-1b .bg-color.transparent.opened .link {
