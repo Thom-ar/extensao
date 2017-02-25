@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
               "color": "#41a85f",
@@ -726,7 +726,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "iNSCRIÇÃO",
+          "title": "INSCRIÇÃO",
           "subtitle": "Inscreva-se",
           "form": {
             "action": "pexgercom.ufpa@gmail.com",
@@ -737,7 +737,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Nome*"
+                "customTitle": "Nome completo*"
               },
               "email": {
                 "title": "Email",
@@ -785,13 +785,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
               "color": "#41a85f",
