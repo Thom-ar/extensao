@@ -477,15 +477,15 @@ h6,
   color: #ffffff;
 }
 #menu-x .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-x .close-icon::before,
 #menu-x .close-icon::after {
-  background-color: #ffffff;
+  background-color: #41a85f;
 }
 #menu-x .link,
 #menu-x .dropdown-item {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-x .link {
   font-size: 0.75rem;
@@ -517,7 +517,7 @@ h6,
   background: #282828;
 }
 #menu-x .bg-color.transparent .link {
-  color: #ffffff;
+  color: #41a85f;
   transition: none;
 }
 #menu-x .bg-color.transparent.opened .link {
@@ -541,15 +541,15 @@ h6,
   color: #ffffff;
 }
 #menu-11 .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-11 .close-icon::before,
 #menu-11 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #41a85f;
 }
 #menu-11 .link,
 #menu-11 .dropdown-item {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-11 .link {
   font-size: 0.75rem;
@@ -581,7 +581,7 @@ h6,
   background: #282828;
 }
 #menu-11 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #41a85f;
   transition: none;
 }
 #menu-11 .bg-color.transparent.opened .link {
@@ -612,15 +612,15 @@ h6,
   color: #ffffff;
 }
 #menu-16 .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-16 .close-icon::before,
 #menu-16 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #41a85f;
 }
 #menu-16 .link,
 #menu-16 .dropdown-item {
-  color: #ffffff;
+  color: #41a85f;
 }
 #menu-16 .link {
   font-size: 0.75rem;
@@ -652,7 +652,7 @@ h6,
   background: #282828;
 }
 #menu-16 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #41a85f;
   transition: none;
 }
 #menu-16 .bg-color.transparent.opened .link {
@@ -665,9 +665,6 @@ h6,
 #menu-16 .link[aria-expanded="true"],
 #menu-16 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#form1-1g .form-control-label {
-  color: #232323;
 }
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
@@ -702,19 +699,19 @@ h6,
 }
 #menu-1b .link[aria-expanded="true"],
 #menu-1b .dropdown-menu {
-  background: #000000;
+  background: #0e0e0e;
 }
 #menu-1b .nav-dropdown-sm .link:focus,
 #menu-1b .nav-dropdown-sm .link:hover,
 #menu-1b .nav-dropdown-sm .dropdown-item:focus,
 #menu-1b .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #202020!important;
 }
 #menu-1b .navbar,
 #menu-1b .nav-dropdown-sm,
 #menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1b .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #282828;
 }
 #menu-1b .bg-color.transparent .link {
   color: #41a85f;
